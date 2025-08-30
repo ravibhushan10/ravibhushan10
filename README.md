@@ -48,6 +48,10 @@
   <a href="mailto:ravibhushankumar87tp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
+  <a href="https://leetcode.com/u/ravibhushan54321/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-800080?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=800080" alt="LeetCode"/>
+</a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
