@@ -21,31 +21,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-```javascript
-const Ravi Bhushan kumar = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "Node.js", "React"],
-    askMeAbout: ["Web Development", "Tech", "MERN Stack", ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "JavaScript", "HTML", "CSS"],
-            css: [ "Tailwind CSS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            database: ["MongoDB"]
-        },
-        tools: ["Git", "Linux"],
-        
-    },
-    currentFocus: "Building innovative web applications with MERN Stack",
-    funFact: "I love coding with coffee and exploring new technologies!"
-};
-```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> What I'm up to
 
