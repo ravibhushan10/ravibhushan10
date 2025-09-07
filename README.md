@@ -1,12 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Problem+Solver;Always%20learning%20new%20things&center=true&width=380&height=45&color=58a6ff&font=Fira%20Code&pause=1000">
 
-</div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-  Hi, I'm <span style="color: #58a6ff;">Ravi Bhushan Kumar</span>
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+ 
+  Hi, I'm <span style="color: #58a6ff;">Ravi Bhushan Kumar 🤗</span>
+  
+ 
 </h1>
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -26,7 +24,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> What I'm up to
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> What I'm up to :
 
 - 🔭 Currently working on **Full-Stack Web Applications**
 - 🌱 Learning **Advanced React, Node.js & Cloud Technologies**
@@ -37,7 +35,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect with Me :
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ravibhushan-kumar/" target="_blank">
@@ -56,9 +54,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack :
 
-<details>
+
 <summary><b>🎨 Frontend Development</b></summary>
 <br>
 
@@ -67,18 +65,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</details>
 
-<details>
+
+
 <summary><b>🎨 UI/UX & Styling</b></summary>
 <br>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</details>
 
-<details>
+
+
 <summary><b>⚙️ Backend Development</b></summary>
 <br>
 
@@ -86,51 +84,77 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</details>
 
-<details>
+
+
 <summary><b>🛠️ Tools & Platforms</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</details>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Analytics :
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: nowrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" width="350" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=react&border_radius=10" alt="GitHub Streak" width="350" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="350" height="200" />
 </div>
+
+
 
 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&custom_title=Ravi_Bhushan%20Kumar%20Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=0D1117&title_color=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+
+
+
+
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Activities :
+
+
+
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ravibhushan54321?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  
+
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-  
-  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
