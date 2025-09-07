@@ -89,7 +89,7 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Analytics :
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" width="430" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=react&border_radius=15" alt="GitHub Streak" width="450" />
   </div>
