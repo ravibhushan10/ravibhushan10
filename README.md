@@ -88,13 +88,13 @@
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Analytics :
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 5px; flex-wrap: nowrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" width="33%vw" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=react&border_radius=15" alt="GitHub Streak" width="33%vw" />
+<div align="center"height="100vh" widhth="100vh">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 0px; flex-wrap: nowrap;" height="100vh" widhth="100vh">
+    <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=react&rank_icon=github&border_radius=15" alt="GitHub Stats" width="400px" height="250px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=react&border_radius=15" alt="GitHub Streak" width="400px" height="250px" />
   </div>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="33%vw" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="400px" height="250px" />
 </div>
  
 <div align="center">
