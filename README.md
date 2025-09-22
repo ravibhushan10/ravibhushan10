@@ -109,20 +109,6 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 
 
-<!-- MY CODING JOURNEY -->
-## 💻 My Coding Journey
-
-<details>
-  <summary>Click to read my journey</summary>
-  <br>
-  <p align="center" style="font-size:14px;">
-  I didn't always know I'd end up in tech. After completing my intermediate education, I discovered web development and quickly fell in love with building websites that people can actually use.  
-  </p>
- <p align="center" style="font-size:14px;">
-  Now, I'm focused mainly on frontend development, but I love exploring new tools, frameworks, and ideas. My journey has just begun, and I'm excited to keep learning, building, and connecting with like-minded people!
-     </p>
-</details>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 
 
@@ -170,6 +156,20 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- MY CODING JOURNEY -->
+## 💻 My Coding Journey
+
+<details>
+  <summary>Click to read my journey</summary>
+  <br>
+  <p align="center" style="font-size:14px;">
+  I didn't always know I'd end up in tech. After completing my intermediate education, I discovered web development and quickly fell in love with building websites that people can actually use.  
+  </p>
+ <p align="center" style="font-size:14px;">
+  Now, I'm focused mainly on frontend development, but I love exploring new tools, frameworks, and ideas. My journey has just begun, and I'm excited to keep learning, building, and connecting with like-minded people!
+     </p>
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
