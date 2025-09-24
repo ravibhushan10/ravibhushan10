@@ -117,12 +117,16 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 <!-- GITHUB STATS -->
 ## ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ravibhushan10&theme=midnight-purple"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&layout=compact&theme=midnight-purple" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&show_icons=true&theme=midnight-purple" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=ravibhushan10&theme=midnight-purple" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&layout=compact&theme=midnight-purple" height="160"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 
 
 
@@ -139,11 +143,14 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 
 <!-- GITHUB TROPHIES -->
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies</span></h2></p>
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
