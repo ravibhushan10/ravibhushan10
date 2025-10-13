@@ -153,15 +153,39 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 
 
-
-
-<!-- ACTIVITIES-->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Activities 
+<!-- ACTIVITIES -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" alt="Activities Icon"> Activities
+</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ravibhushan54321?theme=dark&font=Nunito&ext=heatmap" />
+  <a href="https://leetcode.com/ravibhushan54321" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://leetcard.jacoblin.cool/ravibhushan54321?theme=dark&font=Nunito&ext=heatmap" 
+      alt="LeetCode Activity Heatmap"
+    />
+  </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://leetcode.com/ravibhushan54321" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://leetcode-badge.haozibi.dev/v1/ravibhushan54321.svg?style=for-the-badge&logo=leetcode&logoColor=white" 
+      alt="LeetCode Profile Badge"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
+    alt="Animated Divider"
+  />
+</p>
+
+
+
+
 
 <!-- MY CODING JOURNEY -->
 ## 💻 My Coding Journey
