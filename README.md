@@ -144,14 +144,13 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 
 <!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
+  </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</a>
 
 
 <!-- ACTIVITIES -->
