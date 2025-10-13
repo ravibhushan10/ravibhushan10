@@ -68,7 +68,7 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
   </a>
 
 <!-- LeetCode -->
-<a href="https://leetcode.com/ravibhushan12/">
+<a href="https://leetcode.com/ravibhushan54321/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </div>
