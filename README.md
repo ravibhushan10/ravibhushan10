@@ -178,15 +178,6 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/ravibhushan54321" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://leetcode-badge.haozibi.dev/v1/ravibhushan54321.svg?style=for-the-badge&logo=leetcode&logoColor=white" 
-      alt="LeetCode Profile Badge"
-    />
-  </a>
-</p>
-
-<p align="center">
   <img 
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
     alt="Animated Divider"
