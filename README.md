@@ -26,9 +26,10 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 <!-- BADGES UNDER ABOUT ME -->
 <div>
-   <a href="https://visitorbadge.io/status?path=ravibhushan10">
-    <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;"/>
-  </a>
+ <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
+</a>
+
   <a href="https://github.com/ravibhushan10">
     <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
   </a>
