@@ -154,6 +154,10 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 
 <!-- GITHUB TROPHIES -->
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" width="25" alt="Trophies Icon"> Trophies
+</h2>
+
 <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&cache=1" />
