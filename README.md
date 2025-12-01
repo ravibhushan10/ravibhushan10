@@ -76,7 +76,7 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
   
 
-<!-- TECH STACK -->
+
 <!-- TECH STACK -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Tech Stack 
 
@@ -122,6 +122,90 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Tech GIF"/>
 
   
+
+
+<!-- 
+## ⚙️ My Top Projects
+
+<details>
+<summary><b>📁 Project 1: E-Commerce Website</b></summary>
+<br>
+<div align="center">
+  <h3>🛒 Modern E-Commerce Platform</h3>
+  <p>A fully responsive e-commerce website with cart functionality, user authentication, and payment integration.</p>
+  
+  <div>
+   
+    <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></span>
+    <span><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/></span>
+    <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></span>
+    <span><img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js"/></span>
+    <span><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/></span>
+  </div>
+
+ 
+</div>
+</details>
+
+<details>
+<summary><b>📁 Project 2: Task Management App</b></summary>
+<br>
+<div align="center">
+  <h3>✅ Advanced Task Manager</h3>
+  <p>A productivity application with drag-and-drop functionality, real-time updates, and team collaboration features.</p>
+  
+  <div>
+
+    <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/></span>
+    <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></span>
+    <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></span>
+    <span><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></span>
+    <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></span>
+  </div>
+  
+
+</div>
+</details>
+
+<details>
+<summary><b>📁 Project 3: Weather Dashboard</b></summary>
+<br>
+<div align="center">
+  <h3>⛅ Real-time Weather Application</h3>
+  <p>A weather forecasting dashboard with location-based services, interactive maps, and historical data visualization.</p>
+  
+  <div>
+
+    <span><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/></span>
+    <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></span>
+    <span><img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="REST APIs"/></span>
+    <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></span>
+    <span><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js"/></span>
+  </div>
+
+  
+</div>
+</details>
+
+
+
+##  Quick Links
+
+<div align="center">
+
+| Project | Description | Live Demo | Source Code |
+|---------|-------------|-----------|-------------|
+| **E-Commerce** | Online shopping platform | [🌐 Visit Site](https://project1-live-demo.com) | [📂 View Code](https://github.com/username/project1) |
+| **Task Manager** | Productivity application | [🌐 Visit Site](https://project2-live-demo.com) | [📂 View Code](https://github.com/username/project2) |
+| **Weather App** | Real-time weather dashboard | [🌐 Visit Site](https://project3-live-demo.com) | [📂 View Code](https://github.com/username/project3) |
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-->
+
+
+
 
 
 
