@@ -61,6 +61,15 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
   <a href="mailto:ravibhushankumar87tp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+<!-- LeetCode -->
+<a href="https://leetcode.com/ravibhushan54321/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<!-- Portfolio -->
+<a href="https://ravibhushan-portfolio.vercel.app/#home">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
   <!-- Twitter (X) -->
   <a href="https://x.com/Ravibhushan_12?t=sCOoUXV-9jhxeCF7hFNrxg&s=08">
