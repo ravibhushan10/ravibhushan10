@@ -53,28 +53,30 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 <div>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ravibhushan-kumar/">
+  <a href="https://www.linkedin.com/in/ravibhushan-kumar/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:ravibhushankumar87tp@gmail.com">
+  <a href="mailto:ravibhushankumar87tp@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-<!-- LeetCode -->
-<a href="https://leetcode.com/ravibhushan54321/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
 
-<!-- Portfolio -->
-<a href="https://ravibhushan-portfolio.vercel.app/#home">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/ravibhushan54321/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://ravibhushan-portfolio.vercel.app/#home" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
   <!-- Twitter (X) -->
-  <a href="https://x.com/Ravibhushan_12?t=sCOoUXV-9jhxeCF7hFNrxg&s=08">
+  <a href="https://x.com/Ravibhushan_12?t=sCOoUXV-9jhxeCF7hFNrxg&s=08" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+</div>
 
 
 
