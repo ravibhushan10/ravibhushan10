@@ -30,16 +30,16 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
   <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%238A2BE2" style="vertical-align: middle;" />
 </a>
 
-  <a href="https://github.com/ravibhushan10">
+  <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
     <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
   </a>
   <a href="https://github.com/ravibhushan10?tab=repositories">
     <img alt="Repos" src="https://badges.strrl.dev/repos/ravibhushan10?color=%238A2BE2&style=for-the-badge&label=Repos">
   </a>
-  <a href="https://github.com/ravibhushan10">
+  <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
     <img alt="Stars" src="https://img.shields.io/github/stars/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
   </a>
-  <a href="https://github.com/ravibhushan10">
+  <a href="https://github.com/ravibhushan10" target="_blank" rel="noopener noreferrer">
     <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/ravibhushan10?color=%238A2BE2&style=for-the-badge&label=Commits+Today">
   </a>
 </div>
