@@ -122,8 +122,8 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
 
 <!-- Github Stats -->
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ravibhushan10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ravibhushan10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Tech GIF"/>
 
