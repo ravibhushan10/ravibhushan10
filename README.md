@@ -63,7 +63,7 @@ Hi, I'm <strong>Ravi Bhushan</strong>, a passionate <strong>Web Developer</stron
   </a>
 
   <!-- Portfolio -->
-  <a href="https://ravibhushan.vercel.app/#home" target="_blank" rel="noopener noreferrer">
+  <a href="https://ravibhushan-portfolio.vercel.app/#home" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
