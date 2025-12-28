@@ -199,9 +199,7 @@ Another impressive project with description
 <!-- FOOTER -->
 <h3 align="center">🤝 Open for collaborations — Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravibhushan10&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
