@@ -141,11 +141,8 @@ Another impressive project with description
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gotham&hide_border=false" height="170"/>
-</p>
-<p align="center">
-  <img src="https://beautiful-github-homepage.vercel.app/api?username=ravibhushan10&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ravibhushan10&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=8" height="170"/>
+  <a href="https://github.com/ravibhushan10/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ravibhushan10&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ravibhushan10/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ravibhushan10&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
