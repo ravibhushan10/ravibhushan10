@@ -54,20 +54,20 @@ Hi, I'm **Ravi Bhushan**, a passionate **Full Stack MERN Developer** and Compute
 Full-stack MERN portfolio with admin dashboard to manage projects using secure CRUD operations.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, Lucide-React
 - **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
-- 🔗 [Live Demo](https://ravibhushan-portfolio.vercel.app) | [Repository](https://github.com/ravibhushan10/Portfolio)
+- [Live Demo](https://ravibhushan-portfolio.vercel.app) | [Repository](https://github.com/ravibhushan10/Portfolio)
 
 <!-- FEATURED PROJECTS 
 ### 🛒 [Project Name 2](#)
 Brief description of your second best project - what problem does it solve?
 - **Tech Stack:** List the main technologies used
 - **Features:** Key features that make it stand out
-- 🔗 [Live Demo](#) | 📂 [Repository](#)
+- [Live Demo](#) | 📂 [Repository](#)
 
 ### 💼 [Project Name 3](#)
 Another impressive project with description
 - **Tech Stack:** Technologies and tools used
 - **Features:** What makes this project special
-- 🔗 [Live Demo](#) | 📂 [Repository](#)
+- [Live Demo](#) | 📂 [Repository](#)
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -154,10 +154,12 @@ Another impressive project with description
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GITHUB ACTIVITY GRAPH -->
+<!-- GITHUB ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&theme=react-dark&hide_border=true&area=true)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GITHUB TROPHIES -->
