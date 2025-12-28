@@ -139,21 +139,17 @@ Another impressive project with description
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravibhushan10&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gruvbox&hide_border=false" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhushan10&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
-
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gotham&hide_border=false" height="170"/>
+</p>
+<p align="center">
+  <img src="https://beautiful-github-homepage.vercel.app/api?username=ravibhushan10&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ravibhushan10&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=8" height="170"/>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB ACTIVITY GRAPH -->
+
 <!-- GITHUB ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
@@ -162,12 +158,6 @@ Another impressive project with description
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ravibhushan10&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- LEETCODE STATS -->
 ## 💻 LeetCode Stats
