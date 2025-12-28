@@ -50,7 +50,7 @@ Hi, I'm **Ravi Bhushan**, a passionate **Full Stack MERN Developer** and Compute
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-### [1. Portfolio Website](https://github.com/ravibhushan10/portfolio-website)
+### [1. Portfolio Website](https://ravibhushan-portfolio.vercel.app)
 Full-stack MERN portfolio with admin dashboard to manage projects using secure CRUD operations.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, Lucide-React
 - **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
