@@ -56,20 +56,17 @@ Full-stack MERN portfolio with admin dashboard to manage projects using secure C
 - **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
 - [Live Demo](https://ravibhushan-portfolio.vercel.app) | [Repository](https://github.com/ravibhushan10/Portfolio)
 
-<!-- FEATURED PROJECTS 
-### 🛒 [Project Name 2](#)
-Brief description of your second best project - what problem does it solve?
-- **Tech Stack:** List the main technologies used
-- **Features:** Key features that make it stand out
-- [Live Demo](#) | 📂 [Repository](#)
+### [2. Resume Builder](https://resume-builder-ruby-omega.vercel.app)
+Modern full-stack resume builder with real-time preview, PDF export, and cloud storage using React, Redux, and Node.js.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, JWT Authentication, bcryptjs
+- **Features:** Create multiple resume with differnt-different formate and also download and edit.
+- [Live Demo](https://resume-builder-ruby-omega.vercel.app) | [Repository](https://github.com/ravibhushan10/Resume-builder)
 
-### 💼 [Project Name 3](#)
-Another impressive project with description
-- **Tech Stack:** Technologies and tools used
-- **Features:** What makes this project special
-- [Live Demo](#) | 📂 [Repository](#)
--->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### [3. GitHub Profile Viewer](https://github-profile-view-pi.vercel.app)
+A dynamic web application to search and view GitHub user profiles with detailed statistics and repository information
+- **Tech Stack:** HTML5, CSS3, Javascript, GithubAPI, flexbox-grid,responsive design
+- **Features:** Advanced Repository Filtering, with comprehensive Profile Display.
+- [Live Demo](https://github-profile-view-pi.vercel.app) | [Repository](https://github.com/ravibhushan10/github-profile-view)
 
 <!-- CONNECT WITH ME -->
 ## 🌐 Connect With Me
