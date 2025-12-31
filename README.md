@@ -50,11 +50,11 @@ Hi, I'm **Ravi Bhushan**, a passionate **Full Stack MERN Developer** and Compute
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-### [1. Portfolio Website](https://ravibhushan-portfolio.vercel.app)
-Full-stack MERN portfolio with admin dashboard to manage projects using secure CRUD operations.
-- **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, Lucide-React
-- **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
-- [Live Demo](https://ravibhushan-portfolio.vercel.app) | [Repository](https://github.com/ravibhushan10/Portfolio)
+### [1. Authentication System](https://authentication-system-lilac-nine.vercel.app)
+A modern, secure full-stack authentication system built with the MERN stack. Features include user registration, login, profile management, and JWT-based authentication with HTTP-only cookies.
+- **Tech Stack:** React, Redux Toolkit, React Icons, Node.js, Express.js, MongoDB, JWT, bcrypt.
+- **Features:** Secure user authentication with JWT, HTTP-only cookies, bcrypt password hashing, protected routes, and robust error handling.
+- [Live Demo](https://authentication-system-lilac-nine.vercel.app) | [Repository](https://github.com/ravibhushan10/Authentication-system)
 
 ### [2. Resume Builder](https://resume-builder-ruby-omega.vercel.app)
 Modern full-stack resume builder with real-time preview, PDF export, and cloud storage using React, Redux, and Node.js.
@@ -62,11 +62,11 @@ Modern full-stack resume builder with real-time preview, PDF export, and cloud s
 - **Features:** Create multiple resume with differnt-different formate and also download and edit.
 - [Live Demo](https://resume-builder-ruby-omega.vercel.app) | [Repository](https://github.com/ravibhushan10/Resume-builder)
 
-### [3. GitHub Profile Viewer](https://github-profile-view-pi.vercel.app)
-A dynamic web application to search and view GitHub user profiles with detailed statistics and repository information
-- **Tech Stack:** HTML5, CSS3, Javascript, GithubAPI, flexbox-grid,responsive design
-- **Features:** Advanced Repository Filtering, with comprehensive Profile Display.
-- [Live Demo](https://github-profile-view-pi.vercel.app) | [Repository](https://github.com/ravibhushan10/github-profile-view)
+### [3. Portfolio Full Stack](https://ravibhushan-portfolio.vercel.app)
+Full-stack MERN portfolio with admin dashboard to manage projects using secure CRUD operations.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, Lucide-React
+- **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
+- [Live Demo](https://ravibhushan-portfolio.vercel.app) | [Repository](https://github.com/ravibhushan10/Portfolio)
 
 <!-- CONNECT WITH ME -->
 ## 🌐 Connect With Me
