@@ -1,15 +1,5 @@
 <div id="top"></div>
 
-<!-- HEADER CAPSULE -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ravi+Bhushan;Computer+Science+Student;Full+Stack+(MERN)+Developer;Welcome+to+my+GitHub+Profile!" />
-</p>
-
-<h4 align="center">
-Full Stack Developer — MERN | Building responsive websites & exploring new tools | Open to Collaboration
-</h4>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ABOUT ME -->
 ## 👤 About Me
@@ -50,19 +40,14 @@ Hi, I'm **Ravi Bhushan**, a passionate **Full Stack MERN Developer** and Compute
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-### [1. Authentication System](https://authentication-system-lilac-nine.vercel.app)
-A modern, secure full-stack authentication system built with the MERN stack. Features include user registration, login, profile management, and JWT-based authentication with HTTP-only cookies.
-- **Tech Stack:** React, Redux Toolkit, React Icons, Node.js, Express.js, MongoDB, JWT, bcrypt.
-- **Features:** Secure user authentication with JWT, HTTP-only cookies, bcrypt password hashing, protected routes, and robust error handling.
-- [Live Demo](https://authentication-system-lilac-nine.vercel.app) | [Repository](https://github.com/ravibhushan10/Authentication-system)
 
-### [2. Resume Builder](https://resume-builder-ruby-omega.vercel.app)
+### [1. Resume Builder](https://resume-builder-ruby-omega.vercel.app)
 Modern full-stack resume builder with real-time preview, PDF export, and cloud storage using React, Redux, and Node.js.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, JWT Authentication, bcryptjs
 - **Features:** Create multiple resume with differnt-different formate and also download and edit.
 - [Live Demo](https://resume-builder-ruby-omega.vercel.app) | [Repository](https://github.com/ravibhushan10/Resume-builder)
 
-### [3. Portfolio Full Stack](https://ravibhushan-portfolio.vercel.app)
+### [2. Portfolio Full Stack](https://ravibhushan-portfolio.vercel.app)
 Full-stack MERN portfolio with admin dashboard to manage projects using secure CRUD operations.
 - **Tech Stack:** React, Node.js, Express, MongoDB, Mongoose, Lucide-React
 - **Features:** Admin Dashboard, CRUD Operations, Responsive Design, Project Management
