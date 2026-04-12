@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Maurya%20Ji&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ravi%20Bhushan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&descColor=cccccc" />
 
 <br/>
 
@@ -8,21 +8,19 @@
 
 <br/><br/>
 
-<a href="https://github.com/your-username">
-  <img src="https://api.visitorbadge.io/api/visitors?path=your-username&label=Profile%20Views&countColor=%2300D084" />
+<a href="https://github.com/ravibhushan10">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%2300D084" />
 </a>
-&nbsp;
-<a href="https://github.com/your-username?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=00D084&logo=github&label=Followers">
+
+<a href="https://github.com/ravibhushan10?tab=followers">
+  <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=00D084&logo=github&label=Followers">
 </a>
-&nbsp;
-<a href="https://github.com/your-username?tab=repositories">
-  <img alt="Repos" src="https://badges.strrl.dev/repos/your-username?color=00D084&style=for-the-badge&label=Repos">
+
+<a href="https://github.com/ravibhushan10?tab=repositories">
+  <img alt="Repos" src="https://badges.strrl.dev/repos/ravibhushan10?color=00D084&style=for-the-badge&label=Repos">
 </a>
-&nbsp;
-<a href="https://github.com/your-username">
-  <img alt="Stars" src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=00D084&logo=github&label=Stars">
-</a>
+
+
 
 </div>
 
@@ -166,50 +164,48 @@ Modern full-stack resume builder with real-time preview, multiple templates, PDF
 </td>
 <td width="50%" valign="top">
 
-### 📊 GitHub Stats
-
-<img src="https://beautiful-github-homepage.vercel.app/api?username=your-username&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
-
-<br/>
-
-<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=your-username&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=6" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📈 GitHub Activity
-
+## 📊 GitHub Stats
+ 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gotham&hide_border=false" alt="GitHub Streak" width="49%"/>
+ 
+<img height="165px" src="https://beautiful-github-homepage.vercel.app/api?username=ravibhushan10&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%"/>
-
+<img height="165px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ravibhushan10&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=8" alt="Top Languages" />
+ 
+<br/><br/>
+ 
+<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gotham&hide_border=false" alt="GitHub Streak" />
+ 
 </div>
-
+ 
 <br/>
-
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ 
 <br/>
-
-## 💻 LeetCode Stats
-
+ 
+## 📈 Contribution Graph
+ 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
 </div>
-
+ 
 <br/>
-
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+ 
+<br/>
+ 
+## 💻 LeetCode Stats
+ 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/ravibhushan54321?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+ 
+<br/>
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 <br/>
 
 ## 🌐 Connect With Me
