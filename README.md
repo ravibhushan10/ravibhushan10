@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Hey%20there!%20I'm%20Ravi%20Bhushan%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Building+Products+That+Matter;Clean+Code+%7C+Great+UX+%7C+Real+Impact;Dream+it.+Code+it.+Ship+it." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Maurya%20Ji&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&descColor=cccccc" />
 
 <br/>
 
-<a href="https://github.com/ravibhushan10">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%238A2BE2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D084&center=true&vCenter=true&width=620&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Products;Clean+Code+%7C+Great+UX+%7C+Real+Impact;React+%7C+Node.js+%7C+MongoDB+%7C+Groq+AI" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://github.com/your-username">
+  <img src="https://api.visitorbadge.io/api/visitors?path=your-username&label=Profile%20Views&countColor=%2300D084" />
 </a>
 &nbsp;
-<a href="https://github.com/ravibhushan10">
-  <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Followers">
+<a href="https://github.com/your-username?tab=followers">
+  <img alt="Followers" src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=00D084&logo=github&label=Followers">
 </a>
 &nbsp;
-<a href="https://github.com/ravibhushan10?tab=repositories">
-  <img alt="Repos" src="https://badges.strrl.dev/repos/ravibhushan10?color=%238A2BE2&style=for-the-badge&label=Repos">
+<a href="https://github.com/your-username?tab=repositories">
+  <img alt="Repos" src="https://badges.strrl.dev/repos/your-username?color=00D084&style=for-the-badge&label=Repos">
 </a>
 &nbsp;
-<a href="https://github.com/ravibhushan10">
-  <img alt="Stars" src="https://img.shields.io/github/stars/ravibhushan10?style=for-the-badge&color=%238A2BE2&logo=github&label=Stars">
+<a href="https://github.com/your-username">
+  <img alt="Stars" src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=00D084&logo=github&label=Stars">
 </a>
 
 </div>
@@ -33,13 +35,13 @@
 ## 👤 About Me
 
 ```javascript
-const ravi = {
-  name      : "Ravi Bhushan",
+const maurya = {
+  name      : "Maurya Ji",
   role      : "Full Stack MERN Developer",
   education : "B.Tech — Computer Science Engineering",
-  location  : "Muzaffarpur, Bihar, India 📍",
-  focus     : ["React", "Node.js", "MongoDB", "Express"],
-  goal      : "Building scalable web apps that solve real problems",
+  location  : "India 📍",
+  focus     : ["React", "Node.js", "MongoDB", "Express", "Groq AI"],
+  goal      : "Building AI-powered web apps that solve real problems",
   funFact   : "I debug with console.log() like a pro 😄",
   openTo    : ["Collaborations", "Freelance", "Full-time Roles"]
 };
@@ -101,13 +103,34 @@ const ravi = {
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [NexusAI — Intelligent Chat](https://your-nexusai-url.vercel.app)
+> *Ultra-fast AI chat powered by Groq*
+
+Full-stack AI chat application with real-time SSE streaming, multi-model support, vision & document uploads, OAuth authentication, and Razorpay Pro plans.
+
+**Highlights:**
+- ⚡ Real-time streaming via Server-Sent Events
+- 🧠 LLaMA, Gemma, Qwen & Vision models (Groq)
+- 📎 Image & PDF document uploads
+- 🔐 Google/GitHub OAuth + JWT + OTP auth
+- 📊 Analytics dashboard with usage charts
+- 💳 Razorpay Pro subscription (₹10/mo)
+- 🔗 Public conversation sharing
+
+`React` `Node.js` `MongoDB` `Groq AI` `Firebase` `Razorpay` `Tailwind`
+
+[🌐 Live Demo](https://your-nexusai-url.vercel.app) &nbsp;&nbsp; [📁 Repository](https://github.com/your-username/nexusai)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔥 [CodeForge — AI Coding Platform](https://codeforgeai.in)
 > *LeetCode-style platform powered by AI*
 
 Full-stack competitive coding platform with real-time code execution, Groq AI tutor, ML dashboards, mock interviews, and a global leaderboard.
 
 **Highlights:**
-- ⚡ Judge0 execution in 5 languages
+- ⚡ Judge0 code execution in 5 languages
 - 🤖 AI Tutor + Code Review (Groq LLaMA 3.3)
 - 📊 Weakness Radar & Interview Readiness Score
 - 🎤 Timed Mock Interview mode
@@ -116,10 +139,11 @@ Full-stack competitive coding platform with real-time code execution, Groq AI tu
 
 `React` `Node.js` `MongoDB` `Groq AI` `Razorpay` `Judge0` `Firebase`
 
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-codeforgeai.in-00d084?style=for-the-badge)](https://codeforgeai.in)
-[![Repo](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ravibhushan10)
+[🌐 Live Demo](https://codeforgeai.in) &nbsp;&nbsp; [📁 Repository](https://github.com/your-username/codeforge)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📄 [Resume Builder](https://resume-builder-ruby-omega.vercel.app)
@@ -137,49 +161,18 @@ Modern full-stack resume builder with real-time preview, multiple templates, PDF
 
 `React` `Redux` `Node.js` `Express` `MongoDB` `JWT` `bcryptjs`
 
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-Resume_Builder-8A2BE2?style=for-the-badge)](https://resume-builder-ruby-omega.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ravibhushan10/Resume-builder)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Portfolio Full Stack](https://ravibhushan-portfolio.vercel.app)
-> *My personal developer portfolio*
-
-Full-stack MERN portfolio with an embedded AI chatbot (Groq), admin dashboard, working contact form, animated terminal hero, and dark/light theme.
-
-**Highlights:**
-- 🤖 AI chatbot (Groq LLaMA 3.3 70B)
-- 🖥️ Terminal-style animated hero
-- 📬 Contact form + MongoDB storage
-- 🎨 Dark / light theme toggle
-- 🖼️ Project image carousel modal
-- 📱 Fully responsive design
-
-`React` `Vite` `Node.js` `Express` `MongoDB` `Groq AI`
-
-[![Live](https://img.shields.io/badge/🌐_Live_Demo-Portfolio-FF6C37?style=for-the-badge)](https://ravibhushan-portfolio.vercel.app)
-[![Repo](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ravibhushan10/Portfolio)
+[🌐 Live Demo](https://resume-builder-ruby-omega.vercel.app) &nbsp;&nbsp; [📁 Repository](https://github.com/ravibhushan10/Resume-builder)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔜 More Coming Soon...
-> *Always building something new*
+### 📊 GitHub Stats
 
-I'm constantly working on new ideas and projects. Stay tuned for more full-stack products.
-
-**Currently exploring:**
-- 🏗️ SaaS boilerplate with billing
-- 🧠 AI-integrated productivity tools
-- 📱 React Native mobile apps
-- 🔧 Developer tools & open-source libs
+<img src="https://beautiful-github-homepage.vercel.app/api?username=your-username&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
 
 <br/>
 
-[![Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravibhushan10)
+<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=your-username&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=6" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
@@ -191,30 +184,14 @@ I'm constantly working on new ideas and projects. Stay tuned for more full-stack
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="165px" src="https://beautiful-github-homepage.vercel.app/api?username=ravibhushan10&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=gotham&hide_border=false" alt="GitHub Streak" width="49%"/>
 &nbsp;
-<img height="165px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ravibhushan10&hide_title=false&layout=compact&theme=gotham&count_private=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="49%"/>
 
-<br/><br/>
-
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhushan10&theme=gotham&hide_border=false" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhushan10&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
@@ -226,7 +203,7 @@ I'm constantly working on new ideas and projects. Stay tuned for more full-stack
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ravibhushan54321?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <br/>
@@ -239,23 +216,23 @@ I'm constantly working on new ideas and projects. Stay tuned for more full-stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ravibhushan-kumar/" target="_blank">
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:ravibhushankumar87tp@gmail.com" target="_blank">
+<a href="mailto:your-email@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/ravibhushan54321/" target="_blank">
+<a href="https://leetcode.com/your-leetcode/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://ravibhushan-portfolio.vercel.app" target="_blank">
+<a href="https://your-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://x.com/Ravibhushan_12?t=sCOoUXV-9jhxeCF7hFNrxg&s=08" target="_blank">
+<a href="https://x.com/your-twitter" target="_blank">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
@@ -271,6 +248,6 @@ I'm constantly working on new ideas and projects. Stay tuned for more full-stack
 
 ### 🤝 Open for collaborations — Let's build something amazing together! 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
