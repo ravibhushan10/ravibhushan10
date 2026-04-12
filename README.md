@@ -111,7 +111,7 @@ const ravi = {
 
 <td width="50%" valign="top">
 
-### 🤖 [NexusAI — Intelligent Chat](https://your-nexusai-url.vercel.app)
+### 🤖 [NexusAI — Intelligent Chat](https://nexus-three-mauve.vercel.app)
 > *Ultra-fast AI chat powered by Groq*
 
 Full-stack AI chat application with real-time SSE streaming, multi-model support, vision & document uploads, OAuth authentication, and Razorpay Pro plans.
