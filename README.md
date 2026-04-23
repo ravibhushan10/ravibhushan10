@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Ravi%20Bhushan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descSize=18&descAlignY=58&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravi%20Bhushan&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Builder&descSize=18&descAlignY=58&descColor=cccccc" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D084&center=true&vCenter=true&width=620&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Products;Clean+Code+%7C+Great+UX+%7C+Real+Impact;React+%7C+Node.js+%7C+MongoDB+%7C+Groq+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D084&center=true&vCenter=true&width=620&lines=Full+Stack+MERN+Developer;Building+AI-Powered+Products;Clean+Code+%7C+Great+UX+%7C+Real+Impact;React+%7C+Node.js+%7C+MongoDB+%7C+Groq+AI" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://github.com/ravibhushan10">
   <img src="https://api.visitorbadge.io/api/visitors?path=ravibhushan10&label=Profile%20Views&countColor=%2300D084" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ravibhushan10?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=00D084&logo=github&label=Followers">
+  <img src="https://img.shields.io/github/followers/ravibhushan10?style=for-the-badge&color=00D084&logo=github&label=Followers">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ravibhushan10?tab=repositories">
-  <img alt="Repos" src="https://badges.strrl.dev/repos/ravibhushan10?color=00D084&style=for-the-badge&label=Repos">
+  <img src="https://badges.strrl.dev/repos/ravibhushan10?color=00D084&style=for-the-badge&label=Repos">
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ravibhushan10">
-  <img alt="Stars" src="https://img.shields.io/github/stars/ravibhushan10?style=for-the-badge&color=00D084&logo=github&label=Stars">
+  <img src="https://img.shields.io/github/stars/ravibhushan10?style=for-the-badge&color=00D084&logo=github&label=Stars">
 </a>
 
 </div>
@@ -106,84 +106,99 @@ const ravi = {
 
 <br/>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
+<!-- ───────────── NEXUSAI ───────────── -->
 <td width="50%" valign="top">
 
-### 🤖 [NexusAI — Intelligent Chat](https://nexus-three-mauve.vercel.app)
-> *Ultra-fast AI chat powered by Groq*
-
-Full-stack AI chat application with real-time SSE streaming, multi-model support, vision & document uploads, OAuth authentication, and Razorpay Pro plans.
-
-**Highlights:**
-- ⚡ Real-time streaming via Server-Sent Events
-- 🧠 LLaMA, Gemma, Qwen & Vision models (Groq)
-- 📎 Image & PDF document uploads
-- 🔐 Google/GitHub OAuth + JWT + OTP auth
-- 📊 Analytics dashboard with usage charts
-- 💳 Razorpay Pro subscription (₹10/mo)
-- 🔗 Public conversation sharing
-
-`React` `Node.js` `MongoDB` `Groq AI` `Firebase` `Razorpay` `Tailwind`
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖%20NexusAI%20—%20Intelligent%20Chat-7C3AED?style=for-the-badge&logoColor=white" width="100%" />
+</div>
 
 <br/>
 
-[🌐 Live Demo](https://your-nexusai-url.vercel.app) &nbsp;&nbsp; [📁 Repository](https://github.com/ravibhushan10/nexusai)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔥 [CodeForge — AI Coding Platform](https://codeforgeai.in)
-> *LeetCode-style platform powered by AI*
-
-Full-stack competitive coding platform with real-time code execution, Groq AI tutor, ML dashboards, mock interviews, and a global leaderboard.
-
-**Highlights:**
-- ⚡ Judge0 code execution in 5 languages
-- 🤖 AI Tutor + Code Review (Groq LLaMA 3.3)
-- 📊 Weakness Radar & Interview Readiness Score
-- 🎤 Timed Mock Interview mode
-- 💳 Razorpay Pro subscription (₹10/mo)
-- 🔐 Firebase OAuth + JWT + OTP auth
-
-`React` `Node.js` `MongoDB` `Groq AI` `Razorpay` `Judge0` `Firebase`
+> **Ultra-fast AI chat powered by Groq.** Real-time SSE streaming, multi-model AI, vision & document uploads, OAuth auth, and Pro subscription.
 
 <br/>
 
-[🌐 Live Demo](https://codeforgeai.in) &nbsp;&nbsp; [📁 Repository](https://github.com/ravibhushan10/codeforge)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📄 [Resume Builder](https://resume-builder-ruby-omega.vercel.app)
-> *Build beautiful resumes in minutes*
-
-Modern full-stack resume builder with real-time preview, multiple templates, PDF export, and cloud storage per user.
-
-**Highlights:**
-- 📝 Multiple resume templates
-- 👁️ Real-time live preview
-- 📥 One-click PDF export
-- ☁️ Cloud storage per user
-- 🔐 JWT-secured accounts
-- ✏️ Full edit & update flow
-
-`React` `Redux` `Node.js` `Express` `MongoDB` `JWT` `bcryptjs`
+| Feature | Detail |
+---|---|
+| Streaming | Real-time via SSE |
+| AI Models | LLaMA · Gemma · Qwen · Vision |
+ | Uploads | Image & PDF support |
+| Auth | Google/GitHub OAuth + JWT + OTP |
+| Analytics | Dashboard with usage charts |
+| Billing | Razorpay Pro · ₹10/mo |
+| Sharing | Public conversation links |
 
 <br/>
 
-[🌐 Live Demo](https://resume-builder-ruby-omega.vercel.app) &nbsp;&nbsp; [📁 Repository](https://github.com/ravibhushan10/Resume-builder)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logoColor=3395FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+<div align="center">
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-7C3AED?style=for-the-badge)](https://nexus-three-mauve.vercel.app)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravibhushan10/nexusai)
+
+</div>
 
 </td>
 
+<td width="2%"></td>
+
+<!-- ───────────── CODEFORGE ───────────── -->
 <td width="50%" valign="top">
-<!-- intentionally empty for layout balance -->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥%20CodeForge%20—%20AI%20Coding%20Platform-059669?style=for-the-badge&logoColor=white" width="100%" />
+</div>
+
+<br/>
+
+> **LeetCode-style platform powered by AI.** Real-time code execution, Groq AI tutor, weakness radar, timed mock interviews, and global leaderboard.
+
+<br/>
+
+| Feature | Detail |
+|---|---|
+| Execution | Judge0 · 5 languages |
+| AI Tutor | Code Review via LLaMA 3.3 |
+| Insights | Weakness Radar + Readiness Score |
+| Interviews | Timed Mock Interview mode |
+| Leaderboard | Global rankings |
+| Billing | Razorpay Pro · ₹10/mo |
+| Auth | Firebase OAuth + JWT + OTP |
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
+![Judge0](https://img.shields.io/badge/Judge0-1A1A2E?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logoColor=3395FF)
+
+<br/>
+
+<div align="center">
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-059669?style=for-the-badge)](https://codeforgeai.in)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravibhushan10/codeforge)
+
+</div>
+
 </td>
 
 </tr>
