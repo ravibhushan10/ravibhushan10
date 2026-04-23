@@ -109,52 +109,6 @@ const ravi = {
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<!-- ───────────── NEXUSAI ───────────── -->
-<td width="50%" valign="top">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖%20NexusAI%20—%20Intelligent%20Chat-7C3AED?style=for-the-badge&logoColor=white" width="100%" />
-</div>
-
-<br/>
-
-> **Ultra-fast AI chat powered by Groq.** Real-time SSE streaming, multi-model AI, vision & document uploads, OAuth auth, and Pro subscription.
-
-<br/>
-
-| Feature | Detail |
----|---|
-| Streaming | Real-time via SSE |
-| AI Models | LLaMA · Gemma · Qwen · Vision |
- | Uploads | Image & PDF support |
-| Auth | Google/GitHub OAuth + JWT + OTP |
-| Analytics | Dashboard with usage charts |
-| Billing | Razorpay Pro · ₹10/mo |
-| Sharing | Public conversation links |
-
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logoColor=3395FF)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-<br/>
-
-<div align="center">
-
-[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-7C3AED?style=for-the-badge)](https://nexus-three-mauve.vercel.app)
-&nbsp;
-[![Source Code](https://img.shields.io/badge/%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravibhushan10/nexusai)
-
-</div>
-
-</td>
-
-<td width="2%"></td>
 
 <!-- ───────────── CODEFORGE ───────────── -->
 <td width="50%" valign="top">
@@ -201,6 +155,52 @@ const ravi = {
 
 </td>
 
+<!-- ───────────── NEXUSAI ───────────── -->
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖%20NexusAI%20—%20Intelligent%20Chat-7C3AED?style=for-the-badge&logoColor=white" width="100%" />
+</div>
+
+<br/>
+
+> **Ultra-fast AI chat powered by Groq.** Real-time SSE streaming, multi-model AI, vision & document uploads, OAuth auth, and Pro subscription.
+
+<br/>
+
+| Feature | Detail |
+---|---|
+| Streaming | Real-time via SSE |
+| AI Models | LLaMA · Gemma · Qwen · Vision |
+ | Uploads | Image & PDF support |
+| Auth | Google/GitHub OAuth + JWT + OTP |
+| Analytics | Dashboard with usage charts |
+| Billing | Razorpay Pro · ₹10/mo |
+| Sharing | Public conversation links |
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logoColor=3395FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+<div align="center">
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-7C3AED?style=for-the-badge)](https://nexus-three-mauve.vercel.app)
+&nbsp;
+[![Source Code](https://img.shields.io/badge/%20Source%20Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravibhushan10/nexusai)
+
+</div>
+
+</td>
+
+<td width="2%"></td>
 </tr>
 </table>
 
